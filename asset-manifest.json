@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.36dfae1f.css",
-    "main.js": "/portfolio/static/js/main.6b568c2d.js",
-    "static/media/logo.png": "/portfolio/static/media/logo.027423e9ed615ad07d7c.png",
-    "static/media/profile.png": "/portfolio/static/media/profile.5fa6a6c00a99477f2ac9.png",
-    "static/media/nptel.png": "/portfolio/static/media/nptel.de043ed54d34d5391bb6.png",
-    "index.html": "/portfolio/index.html",
-    "main.36dfae1f.css.map": "/portfolio/static/css/main.36dfae1f.css.map",
-    "main.6b568c2d.js.map": "/portfolio/static/js/main.6b568c2d.js.map"
+    "main.css": "/github.io/portfolio-dharani/static/css/main.36dfae1f.css",
+    "main.js": "/github.io/portfolio-dharani/static/js/main.5d1dcf43.js",
+    "static/media/logo.png": "/github.io/portfolio-dharani/static/media/logo.027423e9ed615ad07d7c.png",
+    "static/media/profile.png": "/github.io/portfolio-dharani/static/media/profile.5fa6a6c00a99477f2ac9.png",
+    "static/media/nptel.png": "/github.io/portfolio-dharani/static/media/nptel.de043ed54d34d5391bb6.png",
+    "index.html": "/github.io/portfolio-dharani/index.html",
+    "main.36dfae1f.css.map": "/github.io/portfolio-dharani/static/css/main.36dfae1f.css.map",
+    "main.5d1dcf43.js.map": "/github.io/portfolio-dharani/static/js/main.5d1dcf43.js.map"
   },
   "entrypoints": [
     "static/css/main.36dfae1f.css",
-    "static/js/main.6b568c2d.js"
+    "static/js/main.5d1dcf43.js"
   ]
 }
